@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 
-class Point:
+class Point: #класс
     def __init__(self, x, y):
         self.x = x
         self.y = y
